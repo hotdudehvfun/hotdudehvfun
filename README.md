@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @hotdudehvfun
+- 👀 I’m like programming. 
+- 😊 I know following languages
+    - vanillaJS
+    - css
+    - html
+    - python
+    - react
+    - java
+    - c++
+    - php
+    - mysql
+    - electronjs
